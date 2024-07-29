@@ -1,1 +1,0 @@
-print('mai khánh linh')
