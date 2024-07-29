@@ -1,1 +1,1 @@
-print('mai trung nghĩa')
+print('mai trung nghĩa. ILY')
