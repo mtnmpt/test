@@ -33,5 +33,3 @@ def a(k, a):
     
 b = list(map(int, '26 94 -95 34 67 -97 -17 52 0 86'.split(' ')))
 print(a(7, b))
-
-#cc gì
